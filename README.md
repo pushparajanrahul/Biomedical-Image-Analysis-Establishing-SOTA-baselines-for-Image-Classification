@@ -1,1 +1,1 @@
-# Biomedical-Image-Analysis-Establishing-SOTA-baselines-for-Image-Classification
+# Biomedical Image Analysis Establishing SOTA baselines for Image Classification
